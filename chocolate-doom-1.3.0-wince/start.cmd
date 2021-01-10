@@ -1,0 +1,1 @@
+chocolate-doom.exe -iwad doom1.wad

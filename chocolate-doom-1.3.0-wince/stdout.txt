@@ -1,0 +1,4 @@
+                         Chocolate Doom 1.3.0
+Z_Init: Init zone memory allocation daemon. 
+zone memory: 003A0000, 60f000 allocated for zone
+DEH_Init: Init Dehacked support.
