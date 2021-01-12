@@ -37,4 +37,4 @@ A vytvořit dávku pro spuštění `start.cmd` s tímto obsahem:
 chocolate-doom.exe -iwad doom1.wad
 ```
 
-Pozor, ještě si musíte dodat WAD soubor! Zde uvedený `doom1.wad` je shareware verze DOOM1.
+Pozor, ještě si musíte dodat WAD soubor! Zde uvedený `doom1.wad` je shareware verze DOOM1. Jak má vypadat výsledek, je vidět v adresáři: [chocolate-doom-1.3.0-wince](chocolate-doom-1.3.0-wince/)
